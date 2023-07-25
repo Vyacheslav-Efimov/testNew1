@@ -4,5 +4,6 @@ public class Main {
         Car.build();
         Car x = new Car();
         x.buy();
+        int y, z;
     }
 }
